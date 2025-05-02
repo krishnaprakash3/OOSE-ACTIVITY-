@@ -89,3 +89,4 @@ public class NumberGame {
     
 
 }
+return 0;
